@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Contract",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "FIRHyvwQPEGFgaNE6H0qxg",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/FIRHyvwQPEGFgaNE6H0qxg",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.2517556Z",
+  "Updated": "2023-10-08T07:08:57.2517556Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Flatbed",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "YWCx_Q37jkurlSrLsdmTyw",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/YWCx_Q37jkurlSrLsdmTyw",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.8168433Z",
+  "Updated": "2023-10-08T07:08:57.8168433Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

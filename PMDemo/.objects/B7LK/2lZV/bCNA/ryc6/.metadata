@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Last Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ryc6QjjKZUePbKIlSOtpcQ",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/ryc6QjjKZUePbKIlSOtpcQ",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/bCNA8kvYEUq1aLmfVU473g",
+  "Created": "2023-10-08T07:34:14.2342329Z",
+  "Updated": "2023-10-08T07:34:14.2342329Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

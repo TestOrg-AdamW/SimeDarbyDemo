@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: RPA Stock Market",
+  "Type": "Screen",
+  "Id": "5WvTatRa-kCwKnuh3Y9QZw",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/5WvTatRa-kCwKnuh3Y9QZw",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/DOFMIkPXIkK4abti6asqIg",
+  "Created": "2023-10-08T07:20:11.7480973Z",
+  "Updated": "2023-10-08T07:20:11.7480973Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

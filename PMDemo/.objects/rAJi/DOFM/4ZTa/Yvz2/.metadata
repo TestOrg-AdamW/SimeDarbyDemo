@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Enclosed",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "Yvz2FL1oZEaqMlRAKtKnqg",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/Yvz2FL1oZEaqMlRAKtKnqg",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.512374Z",
+  "Updated": "2023-10-08T07:08:57.512374Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

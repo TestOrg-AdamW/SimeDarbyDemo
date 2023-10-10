@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Permit Required",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "VU-_WAo7WkWawJYIee8NdA",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/VU-_WAo7WkWawJYIee8NdA",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.4556377Z",
+  "Updated": "2023-10-08T07:20:11.5232142Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

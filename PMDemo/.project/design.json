@@ -1,0 +1,12 @@
+{
+  "Tags": [
+    {
+      "Key": "Claim Centre"
+    },
+    {
+      "Key": "ServiceNow"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
