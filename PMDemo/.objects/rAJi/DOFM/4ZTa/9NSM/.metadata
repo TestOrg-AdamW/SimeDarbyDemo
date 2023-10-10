@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Create",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "9NSMXTvvzk2IQjbAKYQYPQ",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/9NSMXTvvzk2IQjbAKYQYPQ",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.6376489Z",
+  "Updated": "2023-10-08T07:08:57.6376489Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

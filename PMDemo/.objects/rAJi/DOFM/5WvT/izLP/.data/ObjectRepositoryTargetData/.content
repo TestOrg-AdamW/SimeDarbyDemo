@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HGC6NBxO3UmHm1UppLmdZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.com/assets/rpaStockMarket/index.html" DesignTimeRectangle="52, 230, 160, 22" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'----- Select -----'" FullSelectorArgument="&lt;webctrl id='country' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='country' tag='SELECT' type='' class='' aaname='' /&gt;" Guid="87edc64e-c1ef-42fa-9bd2-64e1b85ba9ee" ScopeSelectorArgument="&lt;html app='msedge.exe' title='RPA Stock Market' /&gt;" SearchSteps="FuzzySelector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="251, 234, 33, 19" ElementType="Text" FriendlyName="'XOM'" FullSelectorArgument="&lt;webctrl aaname='XOM' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='XOM' tag='SPAN' type='' class='' check:innerText='XOM' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACUAAAAXCAYAAACMLIalAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI2SURBVEhL7VRBS+tAEM5f6V/psT+h1x499ujVY47vmJt4Em9PEUHkEdCHhIJIW6oSSgnGEEr6JLS2Yfmc3Z1dY0Qj72IO/WDI7szs7DeTmXXQQDSblOOe/bgYbEnVicGWVJ0YlEhNMRB6PboNrGMreMZKKvMUXaXz0Q1SjJbsLCEEsnkK97dvzznXfE5CLHF0ynoj3gTnS7YTwnHAq0qleg9rvdkssOfJw3TwRSoEBoG+sH+3frusCrF+u/w2Z6XGKrrXepZWxZ7NJryqkHK8EJcbvY8fhuhMOJV/CTrSfhgj1BpkSYTevrzAR/tPgrBgQzJDS/qaSzdCJ0GJ7jIhxw1wkEmlQJjpg5+TImmbYKKA9i9wfsE2Q1JW0l7wic3Eod96rJYCl1fsf5IiliryPZh9g5TjDjkIw2RO0ucAmEclf5aLOVTyyOHJvSVFFQ25LZKp8jX7OBzamF+TKv1CBWrwHtv+l5StjHjGL++e469xTP33LVK22dMFBszBTGPX2F7m6LO/kQ4NwDtbmZTtIYoVLXSPZTHa5FdP6jDCSE26zsI2uplGWw0K8jjjRr9C5y9VghOwU/aOFPXcuDT/BPkESH0NKR97j/z22D4ypdbTKDP20tL7VMWSqqSeko+kHI8S1hr+jdrva1Inif7vXCUViKR9k+tyUyBX6QbYvct5MhlFgfgpxo6qHAudU0hN//lwE53Q6kk3vJSdKZOajtVX4mOj/6AYbEnViUGzSTUJDSQFvAJHkV4aofsmggAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7d811988433f6b6d0e01d249339d254f.png" xmlns="">00hl4Y8Q9BEOmxSCsoNh4hw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

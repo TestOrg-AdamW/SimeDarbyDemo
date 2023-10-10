@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ntFhaYhBCEWLtkrtSmoJoQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="745, 603, 13, 13" DesignTimeScaleFactor="1" ElementType="RadioButton" FriendlyName="'INPUT C378Z'" FullSelectorArgument="&lt;webctrl idx='2' tag='INPUT' type='radio' /&gt;" FuzzySelectorArgument="&lt;webctrl class='' tag='INPUT' type='radio' aaname='' /&gt;" Guid="e6147f78-247c-4440-b4b4-8fcd84ec35be" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACjSURBVDhPtZPBDcMgDEW7NWcGYArEkUVYgD1Y4FcvqlFKIjVN3XexbL4+tkkecuB/Jr135ZwVY1QIYYvk1M84mNRalVJSa01jjK1GJKfO+cqbCYJSyis7h/PVaJrQKjddAd1+tGnCzLR8BXTojWnC8mwHn0CH3pgmvMI37PW+nbjsxOV14OfvxEDATbRsOyKSU18N4GACtMrMLO/Wv3MHBxPpCZX9RGH3t6+MAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Automation Challenge' /&gt;" SearchSteps="FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="765, 599, 337, 20" ElementType="Text" FriendlyName="'Flatbed'" FullSelectorArgument="&lt;webctrl aaname='                                   Flatbed                      *' class='radio' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                   Flatbed                      *' class='radio' tag='LABEL' type='' check:text='Flatbed' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAVUAAAAYCAYAAABKvW4oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGBSURBVHhe7dltboIwAIDhXcELkngdw03wJNzDxFt0q1jKZ9iw24h5nqSJCBR+vWn1IwBQjKgCFCSqAAWJKkBBogpQkKgCFCSqAAUNonoPzfkUTqfJODdfZ0JoL91xdY1H+5SYYyy/c90+vwL4R78W1fu1ml0vqsC7W4zqUqB+GsSl60UVeHe7o5pWonlUobk9ziyseOsQpxzOkT7HMX7e9P7u3mT43OraiipwKJvb/xTRaVSHUcwjBnA7qvORgtyGeun88yeIecjzEFXgCHZHdSzFMMVx+fo+qpdUwPzMx3Vt3Z1/RjSfj/NOrn3IERZV4Ah2b/+XV53fi+rad+sr0TjvPNxb7wzw1/ZF9daEKgYurTjT8Y9XquOVZh/VfqU6lK/t5+yfK6rAMbwW1dmYR7UbW7+ppj+jcjiHI0V0/X5RBY6hwPZ/ZWs+Cu84qsN/7cfb+Wge1rzaze8YR93a/gPHMogqAK8SVYCCRBWgIFEFKEhUAQoSVYCCRBWgmBA+ARRg+33ccnH5AAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="909025b619ac65e7b841441f0fe96e9a.png" xmlns="">0LAEFBn9UAEOewhqv2sd3hQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

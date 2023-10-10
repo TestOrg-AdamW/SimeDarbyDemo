@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OvzQjnNMmkS3B4I_7cmgxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="348, 603, 13, 13" DesignTimeScaleFactor="1" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl id='QPUCR' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='QPUCR' tag='INPUT' type='checkbox' class='' aaname='' /&gt;" Guid="f68b5fb3-49d9-494e-97da-971f225ac788" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Automation Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="348, 599, 347, 20" ElementType="Text" FriendlyName="'Urgent'" FullSelectorArgument="&lt;webctrl aaname='                                    Urgent                      *' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                    Urgent                      *' tag='LABEL' type='' class='checkbox' check:text='Urgent' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAV8AAAAYCAYAAABdn/7hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVHhe7dzdbYMwFEDhrsCCSJmCHSKeWYLMwQN7RGSLW18DxoAhShWwk55PslQwLnk6styfHwEAnI74AkAExBcAIiC+ABAB8QWACIgvAETg4tt1nVRVJUVRPB36nD4PAPgbF18NatM0w9U+fU6f3/eQ+pJJ2Q6XnvaaSX57DFcA8P+4+OqO9hXPn083vo9bLtk18MEA4CTEFwAiiB/ftpTsUktt7mWZ97zeN9d2mPl2FcxWynHejCnm43v9+Vzqez+r73bf14zQ5wOAo6UR32UE7b3S5HVwryXXWLr49mGd1uj1GNj+vf56G1wTcJdndr4AIktm5zuGUc3mB7NgBtbofL8m8F4b7ynGxBdAbNHi6+6vQhpe5wfTfj0cG8yGnSe+ANJ3YHzDO9hVHDfiu1xnjw78ne9mPIkvgPQdGl8bSe+HXcqGz4/txhHCa2e+PuILIH3HxlfZAHtHA4vQhuKr7E7XW7P6bYcxyG7Mf+C2F98x3rouHHAAOJaL7/v/wu29wkcYAPCZXHyT/t8OgeMLAPhkLr5JWR5VEF4AXybN+ALAlyO+ABAB8QWACIgvAJxO5BdI8booNwE+GQAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1837440364415c444612450306d456e0.png" xmlns="">0BjJ7CuSeXUGwHYs3CzFhGA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

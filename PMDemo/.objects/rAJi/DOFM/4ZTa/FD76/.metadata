@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ship Date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "FD76SMxoskGfv0Jd6EKVuw",
+  "Reference": "NgA8ieIAE0m3TaLXnY-NfA/FD76SMxoskGfv0Jd6EKVuw",
+  "ParentRef": "NgA8ieIAE0m3TaLXnY-NfA/4ZTaSMuHUUmr_y6x5dSZeQ",
+  "Created": "2023-10-08T07:08:57.3988621Z",
+  "Updated": "2023-10-08T07:08:57.3988621Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
